@@ -39,7 +39,7 @@ const Navbar = () => {
             Gonna Cry?
           </span>
           <span className="navbar-element" onClick={() => changeSlide(3)}>
-            Is That All You Got?
+            That All You Got?
           </span>
           <button onClick={openModal1}>Need Help?</button>
         </div>
