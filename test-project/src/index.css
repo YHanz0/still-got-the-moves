@@ -1,0 +1,16 @@
+body {
+  margin: 0; /* Remove default body margin */
+  padding: 0; /* Remove default body padding */
+  background-image: url('./assets/images/bully-maguire-faces.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh; /* Set the height to 100% of the viewport height */
+  overflow-x: hidden; /* Prevent horizontal scrollbar due to 100vw */
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

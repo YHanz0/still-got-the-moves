@@ -1,0 +1,58 @@
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Start with transparent background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
+.modal-box {
+  width: 60%px;
+  max-width: 800px;
+  background-color: #291e31;
+  overflow: hidden;
+  border-radius: 10px;
+  position: relative;
+  z-index: 1000;
+}
+
+.modal-image-container {
+  width: 498px;
+  height: 258px;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.modal-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.additional-button {
+  width: 380px;
+  padding: 10px;
+  margin-bottom: 10px;
+  position: relative;
+  background-color: #7c5da1;
+  background: linear-gradient(to right, #7c5da1, #b7344e);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.close-icon {
+  position: absolute;
+  top: 8px; /* Ajuste conforme necessário para a posição vertical */
+  right: 10px; /* Ajuste conforme necessário para a posição horizontal */
+  color: #fff; /* Cor do ícone */
+  cursor: pointer;
+}
