@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/still-got-the-moves/static/css/main.35869287.css",
+    "main.js": "/still-got-the-moves/static/js/main.d875115d.js",
+    "static/js/592.3801763e.chunk.js": "/still-got-the-moves/static/js/592.3801763e.chunk.js",
+    "static/media/see-ya-chump.gif": "/still-got-the-moves/static/media/see-ya-chump.160681eef858436f74b1.gif",
+    "static/media/i-missed-the-part-where-thats-my-problem.gif": "/still-got-the-moves/static/media/i-missed-the-part-where-thats-my-problem.d41ea9657130729d87dc.gif",
+    "static/media/sm3-drive-that-funky-soul.mp3": "/still-got-the-moves/static/media/sm3-drive-that-funky-soul.c3a170cd29f9f869c02d.mp3",
+    "static/media/bully-maguire-laughing.gif": "/still-got-the-moves/static/media/bully-maguire-laughing.b94e983a8cde493685b6.gif",
+    "static/media/gonna-cry.gif": "/still-got-the-moves/static/media/gonna-cry.4d71fa2fc859ebae952a.gif",
+    "static/media/that-all-you-got.gif": "/still-got-the-moves/static/media/that-all-you-got.85ebb537df578c1499d4.gif",
+    "static/media/bully-maguire-faces.png": "/still-got-the-moves/static/media/bully-maguire-faces.a11f74db7f95ea8cf8fd.png",
+    "static/media/bully-maguire-logo.png": "/still-got-the-moves/static/media/bully-maguire-logo.4be777126dbcc8f614b5.png",
+    "index.html": "/still-got-the-moves/index.html",
+    "main.35869287.css.map": "/still-got-the-moves/static/css/main.35869287.css.map",
+    "main.d875115d.js.map": "/still-got-the-moves/static/js/main.d875115d.js.map",
+    "592.3801763e.chunk.js.map": "/still-got-the-moves/static/js/592.3801763e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35869287.css",
+    "static/js/main.d875115d.js"
+  ]
+}
